@@ -63,6 +63,20 @@ img {
     color: hsl(0, 0%, 42%);
 }
 
+.avatar {
+    display: inline-flex;
+}
+
+.avatar p {
+    margin-top: 25px;
+    font-weight: bold;
+}
+
+.avatar img {
+    width: 45px;
+    height: 45px;
+    margin: 10px;
+}
 
 .attribution {
     position: fixed;
